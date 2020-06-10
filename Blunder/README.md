@@ -39,7 +39,7 @@ Local Network:
 
 ```
 
-$ ./exploit.py -r 10.10.10.191 -u fergus -w wordlist -b
+$ ./exploit.py -r 10.10.10.191 -u admin -w wordlist -b
 
 ```
 
