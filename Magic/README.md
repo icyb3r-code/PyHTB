@@ -29,3 +29,8 @@ optional arguments:
 [*] Check your NetCat
 
 ```
+
+## References 
+
+https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf
+
